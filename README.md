@@ -1,1 +1,1 @@
-# rp-online-stores
+# rp-online-store
